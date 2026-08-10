@@ -43,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0709-to-lower-case/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
