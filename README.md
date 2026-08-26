@@ -28,6 +28,7 @@
 | [0205-isomorphic-strings](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0205-isomorphic-strings](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0709-to-lower-case/) | Easy |
@@ -54,4 +56,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0412-fizz-buzz/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
