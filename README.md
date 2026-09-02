@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0189-rotate-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/1672-richest-customer-wealth/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
