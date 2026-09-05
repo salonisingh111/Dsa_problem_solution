@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0189-rotate-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -25,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
