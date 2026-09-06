@@ -33,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
@@ -53,6 +54,7 @@
 | [0058-length-of-last-word](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/salonisingh111/Dsa_problem_solution/tree/main/0412-fizz-buzz/) | Easy |
