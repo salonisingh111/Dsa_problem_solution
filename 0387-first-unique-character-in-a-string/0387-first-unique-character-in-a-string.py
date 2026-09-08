@@ -1,16 +1,17 @@
-class Solution(object):
+class Solution:
     def firstUniqChar(self, s):
-        result={}
+        count = {}
 
-        for ch in s:
-            if ch in result:
-                result[ch]+=1
+        # Count every character
+        for char in s:
+            if char in count:
+                count[char] += 1
             else:
-                result[ch]=1
+                count[char] = 1
 
+        # Find the first character whose count is 1
         for i in range(len(s)):
-            if result[s[i]] == 1:
+            if count[s[i]] == 1:
                 return i
 
         return -1
-
